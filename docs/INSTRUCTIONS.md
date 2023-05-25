@@ -73,4 +73,4 @@ L: Je maakt aangeboden en zelf gevonden materie eigen en gebruikt dit bij leerta
 
 Deze opdracht is done als:
 
-[ ] - De chatroom staat live en is opgemaakt naar de huisstijl van een opdrachtgever.
+- [ ] De chatroom staat live en is opgemaakt naar de huisstijl van een opdrachtgever.
